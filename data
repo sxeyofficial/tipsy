@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d8db9032-b290-4454-af0f-bd20e4c2aa6d",
+    "username": "sxey",
+    "email": "sxey.official@gmail.com",
+    "password": "$2a$10$Q1ip/s/UeV2Gi8qXe3Dl3eJisrGg93Ju0o7/5F0Gz/ADLXj2JhAMK",
+    "createdAt": "2025-11-09T21:49:53.114Z"
+  }
+]
+[
+  {
+    "id": "67abd2b9-c688-4319-aa94-f2fda48eb137",
+    "title": "Awtter",
+    "description": "test",
+    "filename": "1762725013074-873214695.mp4",
+    "userId": "d8db9032-b290-4454-af0f-bd20e4c2aa6d",
+    "author": "sxey",
+    "views": 0,
+    "createdAt": "2025-11-09T21:50:13.133Z"
+  },
+  {
+    "id": "ece35d5d-0ad2-437f-adb0-018a88a12e10",
+    "title": "Awtter",
+    "description": "test",
+    "filename": "1762725015756-236646776.mp4",
+    "userId": "d8db9032-b290-4454-af0f-bd20e4c2aa6d",
+    "author": "sxey",
+    "views": 0,
+    "createdAt": "2025-11-09T21:50:15.768Z"
+  }
+]
+[]
